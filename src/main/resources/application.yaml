@@ -1,0 +1,6 @@
+server:
+  por : 8080
+spring:
+  application:
+    name : excelparser
+
